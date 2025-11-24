@@ -1,7 +1,11 @@
 # Cooperative GAN: Automated Tympanic Membrane Anomaly Detection Using a Cooperative Observation Network
 
 ### Overview
-
+<p align="center">
+  <img src="CON_graphical_abs.png"
+       alt="Graphical abstract of Cooperative GAN (CON) for tympanic membrane anomaly detection"
+       width="600" />
+</p>
 This repository contains the official implementation of
 
 **“Cooperative GAN: Automated Tympanic Membrane Anomaly Detection Using a Cooperative Observation Network (CON)”**
